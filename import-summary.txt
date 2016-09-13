@@ -1,0 +1,155 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* Android.mk
+* CleanSpec.mk
+* MODULE_LICENSE_APACHE2
+* NOTICE
+* README.md
+* emailcommon/
+* emailcommon/Android.mk
+* emailcommon/src/
+* emailcommon/src/com/
+* emailcommon/src/com/android/
+* emailcommon/src/com/android/emailcommon/
+* emailcommon/src/com/android/emailcommon/AccountManagerTypes.java
+* emailcommon/src/com/android/emailcommon/Api.java
+* emailcommon/src/com/android/emailcommon/CalendarProviderStub.java
+* emailcommon/src/com/android/emailcommon/Configuration.java
+* emailcommon/src/com/android/emailcommon/Device.java
+* emailcommon/src/com/android/emailcommon/Logging.java
+* emailcommon/src/com/android/emailcommon/TempDirectory.java
+* emailcommon/src/com/android/emailcommon/TrafficFlags.java
+* emailcommon/src/com/android/emailcommon/internet/
+* emailcommon/src/com/android/emailcommon/internet/BinaryTempFileBody.java
+* emailcommon/src/com/android/emailcommon/internet/MimeBodyPart.java
+* emailcommon/src/com/android/emailcommon/internet/MimeHeader.java
+* emailcommon/src/com/android/emailcommon/internet/MimeMessage.java
+* emailcommon/src/com/android/emailcommon/internet/MimeMultipart.java
+* emailcommon/src/com/android/emailcommon/internet/MimeUtility.java
+* emailcommon/src/com/android/emailcommon/internet/Rfc822Output.java
+* emailcommon/src/com/android/emailcommon/internet/TextBody.java
+* emailcommon/src/com/android/emailcommon/mail/
+* emailcommon/src/com/android/emailcommon/mail/Address.java
+* emailcommon/src/com/android/emailcommon/mail/AuthenticationFailedException.java
+* emailcommon/src/com/android/emailcommon/mail/Body.java
+* emailcommon/src/com/android/emailcommon/mail/BodyPart.java
+* emailcommon/src/com/android/emailcommon/mail/CertificateValidationException.java
+* emailcommon/src/com/android/emailcommon/mail/FetchProfile.java
+* emailcommon/src/com/android/emailcommon/mail/Fetchable.java
+* emailcommon/src/com/android/emailcommon/mail/Flag.java
+* emailcommon/src/com/android/emailcommon/mail/Folder.java
+* emailcommon/src/com/android/emailcommon/mail/MeetingInfo.java
+* emailcommon/src/com/android/emailcommon/mail/Message.java
+* emailcommon/src/com/android/emailcommon/mail/MessageDateComparator.java
+* emailcommon/src/com/android/emailcommon/mail/MessagingException.java
+* emailcommon/src/com/android/emailcommon/mail/Multipart.java
+* emailcommon/src/com/android/emailcommon/mail/PackedString.java
+* emailcommon/src/com/android/emailcommon/mail/Part.java
+* emailcommon/src/com/android/emailcommon/provider/
+* emailcommon/src/com/android/emailcommon/provider/Account.java
+* emailcommon/src/com/android/emailcommon/provider/EmailContent.java
+* emailcommon/src/com/android/emailcommon/provider/HostAuth.aidl
+* emailcommon/src/com/android/emailcommon/provider/HostAuth.java
+* emailcommon/src/com/android/emailcommon/provider/Mailbox.java
+* emailcommon/src/com/android/emailcommon/provider/Policy.aidl
+* emailcommon/src/com/android/emailcommon/provider/Policy.java
+* emailcommon/src/com/android/emailcommon/provider/ProviderUnavailableException.java
+* emailcommon/src/com/android/emailcommon/provider/QuickResponse.java
+* emailcommon/src/com/android/emailcommon/service/
+* emailcommon/src/com/android/emailcommon/service/AccountServiceProxy.java
+* emailcommon/src/com/android/emailcommon/service/EmailServiceConstants.java
+* emailcommon/src/com/android/emailcommon/service/EmailServiceProxy.java
+* emailcommon/src/com/android/emailcommon/service/EmailServiceStatus.java
+* emailcommon/src/com/android/emailcommon/service/IAccountService.aidl
+* emailcommon/src/com/android/emailcommon/service/IEmailService.aidl
+* emailcommon/src/com/android/emailcommon/service/IEmailServiceCallback.aidl
+* emailcommon/src/com/android/emailcommon/service/IPolicyService.aidl
+* emailcommon/src/com/android/emailcommon/service/LegacyPolicySet.java
+* emailcommon/src/com/android/emailcommon/service/PolicyServiceProxy.java
+* emailcommon/src/com/android/emailcommon/service/SearchParams.aidl
+* emailcommon/src/com/android/emailcommon/service/SearchParams.java
+* emailcommon/src/com/android/emailcommon/service/ServiceProxy.java
+* emailcommon/src/com/android/emailcommon/service/ServiceUnavailableException.java
+* emailcommon/src/com/android/emailcommon/service/SyncWindow.java
+* emailcommon/src/com/android/emailcommon/utility/
+* emailcommon/src/com/android/emailcommon/utility/AttachmentUtilities.java
+* emailcommon/src/com/android/emailcommon/utility/CertificateRequestor.java
+* emailcommon/src/com/android/emailcommon/utility/ConversionUtilities.java
+* emailcommon/src/com/android/emailcommon/utility/DelayedOperations.java
+* emailcommon/src/com/android/emailcommon/utility/EmailAsyncTask.java
+* emailcommon/src/com/android/emailcommon/utility/EmailClientConnectionManager.java
+* emailcommon/src/com/android/emailcommon/utility/IntentUtilities.java
+* emailcommon/src/com/android/emailcommon/utility/LoggingInputStream.java
+* emailcommon/src/com/android/emailcommon/utility/SSLSocketFactory.java
+* emailcommon/src/com/android/emailcommon/utility/SSLUtils.java
+* emailcommon/src/com/android/emailcommon/utility/TextUtilities.java
+* emailcommon/src/com/android/emailcommon/utility/Utility.java
+* proguard.flags
+* remove-exchange-support.sh
+* tests/
+* tests/Android.mk
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+guava-14.0-rc1.jar => com.google.guava:guava:18.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/com/android/emailcommon/provider/HostAuth.aidl => app/src/main/aidl/com/android/emailcommon/provider/HostAuth.aidl
+* src/com/android/emailcommon/provider/Policy.aidl => app/src/main/aidl/com/android/emailcommon/provider/Policy.aidl
+* src/com/android/emailcommon/service/IAccountService.aidl => app/src/main/aidl/com/android/emailcommon/service/IAccountService.aidl
+* src/com/android/emailcommon/service/IEmailService.aidl => app/src/main/aidl/com/android/emailcommon/service/IEmailService.aidl
+* src/com/android/emailcommon/service/IEmailServiceCallback.aidl => app/src/main/aidl/com/android/emailcommon/service/IEmailServiceCallback.aidl
+* src/com/android/emailcommon/service/IPolicyService.aidl => app/src/main/aidl/com/android/emailcommon/service/IPolicyService.aidl
+* src/com/android/emailcommon/service/SearchParams.aidl => app/src/main/aidl/com/android/emailcommon/service/SearchParams.aidl
+* src/com/beetstra/ThirdPartyProject.prop => app/src/main/resources/com/beetstra/ThirdPartyProject.prop
+* src/org/apache/commons/io/ThirdPartyProject.prop => app/src/main/resources/org/apache/commons/io/ThirdPartyProject.prop
+* src/org/apache/commons/io/comparator/package.html => app/src/main/resources/org/apache/commons/io/comparator/package.html
+* src/org/apache/commons/io/filefilter/package.html => app/src/main/resources/org/apache/commons/io/filefilter/package.html
+* src/org/apache/commons/io/input/package.html => app/src/main/resources/org/apache/commons/io/input/package.html
+* src/org/apache/commons/io/output/package.html => app/src/main/resources/org/apache/commons/io/output/package.html
+* src/org/apache/commons/io/overview.html => app/src/main/resources/org/apache/commons/io/overview.html
+* src/org/apache/commons/io/package.html => app/src/main/resources/org/apache/commons/io/package.html
+* src/org/apache/james/mime4j/ThirdPartyProject.prop => app/src/main/resources/org/apache/james/mime4j/ThirdPartyProject.prop
+* src/org/apache/james/mime4j/field/address/parser/AddressListParser.jj => app/src/main/resources/org/apache/james/mime4j/field/address/parser/AddressListParser.jj
+* tests/res/ => app/src/androidTest/res/
+* tests/src/ => app/src/androidTest/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

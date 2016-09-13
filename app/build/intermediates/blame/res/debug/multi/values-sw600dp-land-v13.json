@@ -1,0 +1,332 @@
+[
+    {
+        "outputFile": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endColumn": 66,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 122,
+                    "endColumn": 67,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 67,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 66,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 66,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 58,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1564,
+                        "endColumn": 58,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 59,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1623,
+                        "endColumn": 59,
+                        "endOffset": 1678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 57,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1683,
+                        "endColumn": 57,
+                        "endOffset": 1736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 51,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endColumn": 51,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 66,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 66,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 51,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 51,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 50,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 50,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 656,
+                    "endColumn": 50,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endColumn": 50,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 51,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1511,
+                        "endColumn": 51,
+                        "endOffset": 1558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 49,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1410,
+                        "endColumn": 49,
+                        "endOffset": 1455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 52,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1318,
+                        "endColumn": 52,
+                        "endOffset": 1366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 55,
+                    "endOffset": 913
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1206,
+                        "endColumn": 55,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 918,
+                    "endColumn": 55,
+                    "endOffset": 969
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 55,
+                        "endOffset": 1313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 974,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw600dp-land/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 863
+                    }
+                }
+            }
+        ]
+    }
+]

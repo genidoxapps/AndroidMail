@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-port/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 55,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 66,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-port/dimensions.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 66,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 66,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-port/dimensions.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 66,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 66,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-port/dimensions.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endColumn": 66,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 51,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-port/dimensions.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 51,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 51,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-port/dimensions.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 51,
+                        "endOffset": 816
+                    }
+                }
+            }
+        ]
+    }
+]

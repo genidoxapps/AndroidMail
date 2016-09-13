@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/menu-sw600dp-port-v13/message_search_list_fragment_option.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/menu-sw600dp-port/message_search_list_fragment_option.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/menu-sw600dp-port-v13/message_view_fragment_option.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/menu-sw600dp-port/message_view_fragment_option.xml"
+    }
+]

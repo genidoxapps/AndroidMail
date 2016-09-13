@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_default_padding_material">0dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="action_bar_account_name_max_width">100dip</dimen>
+    <dimen name="action_bar_mailbox_name_left_margin">8dip</dimen>
+    <dimen name="action_bar_mailbox_name_max_width">100dip</dimen>
+    <dimen name="compose_scrollview_width">800dip</dimen>
+    <dimen name="mailbox_list_width">160dip</dimen>
+    <dimen name="message_list_width">160dip</dimen>
+    <style name="SearchBar">
+        <item name="android:layout_width">360dip</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="action_bar_spinner_primary_text">
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_primary_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="action_bar_spinner_secondary_text">
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_secondary_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_marginTop">-2dip</item>
+    </style>
+    <style name="action_bar_unread_count">
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/text_ternary_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="message_view_action_buttons" parent="android:Widget.Holo.Button.Borderless">
+        <item name="android:layout_width">32dip</item>
+        <item name="android:layout_height">24dip</item>
+        <item name="android:layout_marginLeft">8dip</item>
+        <item name="android:layout_marginRight">8dip</item>
+        <item name="android:padding">2dip</item>
+    </style>
+</resources>

@@ -1,0 +1,142 @@
+[
+    {
+        "outputFile": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/values-sw720dp-port-v13/values-sw720dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw720dp-port/dimensions.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endColumn": 57,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw720dp-port/dimensions.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 55,
+                        "endOffset": 1229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 51,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw720dp-port/dimensions.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 51,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 49,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw720dp-port/dimensions.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 49,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 53,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw720dp-port/dimensions.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1234,
+                        "endColumn": 53,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 63,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw720dp-port/dimensions.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 63,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/values-sw720dp-port/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1000
+                    }
+                }
+            }
+        ]
+    }
+]

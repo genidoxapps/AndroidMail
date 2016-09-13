@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/attachment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/attachment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/waiting_for_sync_message.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/waiting_for_sync_message.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/action_bar_custom_view.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/action_bar_custom_view.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_settings_exchange_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_settings_exchange_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_outgoing_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_outgoing_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/widget_list_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/widget_list_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_basics_common.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_basics_common.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/three_pane.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/three_pane.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/action_bar_search.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/action_bar_search.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_compose.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_compose.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_basics.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_basics.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_view_subheader.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_view_subheader.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/action_bar_spinner.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/action_bar_spinner.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/mailbox_list_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/mailbox_list_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/action_bar_indeterminate_progress.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/action_bar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/connection_error_banner.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/connection_error_banner.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/mailbox_list_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/mailbox_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_view_header_upper.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_view_header_upper.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_list_item_footer.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_list_item_footer.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_view_attachment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_view_attachment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/compose_body.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/compose_body.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/insert_quick_response.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/insert_quick_response.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/mailbox_list_header.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/mailbox_list_header.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/quick_response_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/quick_response_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_exchange.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_exchange.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/widget_loading.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/widget_loading.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_incoming.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_incoming.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_list_warning.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_list_warning.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_settings_buttons.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_settings_buttons.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/more_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/more_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/email_activity_one_pane.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/email_activity_one_pane.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_list_search_header.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_list_search_header.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/action_bar_spinner_dropdown.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/action_bar_spinner_dropdown.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_shortcut_picker.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_shortcut_picker.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_view_header_actions.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_view_header_actions.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_account_type.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_account_type.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/client_certificate_selector.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/client_certificate_selector.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/action_bar_spinner_dropdown_header.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/action_bar_spinner_dropdown_header.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_settings.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_settings.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_settings_incoming_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_settings_incoming_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/widget.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/compose_from.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/compose_from.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/chips_recipient_dropdown_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_file_view.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_file_view.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_list_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_exchange_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_exchange_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/recipient_dropdown_item_loading.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/recipient_dropdown_item_loading.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/quoted_text.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/quoted_text.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_command_button_view.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_command_button_view.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/copy_chip_dialog_layout.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_names.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_names.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/chips_alternate_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/chips_alternate_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_view_details.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_view_details.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/recipient_dropdown_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/email_activity_two_pane.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/email_activity_two_pane.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_settings_outgoing_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_settings_outgoing_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_buttons.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_buttons.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_list_item_wide.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_list_item_wide.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_incoming_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_incoming_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_view_invitation.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_view_invitation.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_settings_edit_quick_responses_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_settings_edit_quick_responses_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_outgoing.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_outgoing.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/debug.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/debug.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_view_fragment.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_view_fragment.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/message_list_item_normal.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/message_list_item_normal.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout/account_setup_options.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout/account_setup_options.xml"
+    }
+]

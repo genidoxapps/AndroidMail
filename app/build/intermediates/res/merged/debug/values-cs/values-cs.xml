@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="general_preference_text_zoom_summary_array">
+    <item msgid="4693576184223089069">"Drobný text"</item>
+    <item msgid="4415205108584620118">"Malý text"</item>
+    <item msgid="4550219696381691112">"Text běžné velikosti"</item>
+    <item msgid="6227813549949219991">"Velký text"</item>
+    <item msgid="1197917420815786571">"Obrovský text"</item>
+  </string-array>
+    <plurals name="gal_completed_fmt">
+    <item msgid="7496785524617037642" quantity="one">"<ns1:g id="RESULTS">%1$d</ns1:g> výsledek z webu <ns1:g id="DOMAIN">%2$s</ns1:g>"</item>
+    <item msgid="7816121892960632123" quantity="other">"Počet výsledků: <ns1:g id="RESULTS">%1$d</ns1:g> z webu <ns1:g id="DOMAIN">%2$s</ns1:g>"</item>
+  </plurals>
+    <plurals name="message_delete_confirm">
+    <item msgid="3799616435056423256" quantity="one">"Smazat tuto zprávu?"</item>
+    <item msgid="4437637377522896262" quantity="other">"Smazat tyto zprávy?"</item>
+  </plurals>
+    <plurals name="message_deleted_toast">
+    <item msgid="710742672464447084" quantity="one">"Zpráva byla smazána."</item>
+    <item msgid="6574961322865652255" quantity="other">"Zprávy byly smazány."</item>
+  </plurals>
+    <plurals name="message_moved_toast">
+    <item msgid="3098493230185412871" quantity="one">"<ns1:g id="NUM_MESSAGE">%1$d</ns1:g> zpráva byla přesunuta do schránky <ns1:g id="MAILBOX_NAME">%2$s</ns1:g>"</item>
+    <item msgid="2286739630865943494" quantity="other">"Zprávy (<ns1:g id="NUM_MESSAGE">%1$d</ns1:g>) byly přesunuty do schránky <ns1:g id="MAILBOX_NAME">%2$s</ns1:g>"</item>
+  </plurals>
+    <plurals name="message_view_attachment_bytes">
+    <item msgid="8914124732074848509" quantity="one">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> B"</item>
+    <item msgid="4613385949384337840" quantity="other">"<ns1:g id="SIZE_IN_BYTES">%d</ns1:g> B"</item>
+  </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+    <item msgid="6261986598249539093" quantity="one">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g> GB"</item>
+    <item msgid="1041353825053598633" quantity="other">"<ns1:g id="SIZE_IN_GIGABYTES">%d</ns1:g> GB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+    <item msgid="869981846437074463" quantity="one">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g> kB"</item>
+    <item msgid="8869993299924901593" quantity="other">"<ns1:g id="SIZE_IN_KILOBYTES">%d</ns1:g> kB"</item>
+  </plurals>
+    <plurals name="message_view_attachment_megabytes">
+    <item msgid="7527095670565758434" quantity="one">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> MB"</item>
+    <item msgid="4365876866570165282" quantity="other">"<ns1:g id="SIZE_IN_MEGABYTES">%d</ns1:g> MB"</item>
+  </plurals>
+    <plurals name="message_view_selected_message_count">
+    <item msgid="5064657358375178519" quantity="one">"Vybrané zprávy: <ns1:g id="MESSAGE_COUNT">%d</ns1:g>"</item>
+    <item msgid="7901361399231876038" quantity="other">"Vybrané zprávy: <ns1:g id="MESSAGE_COUNT">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="message_view_show_attachments_action">
+    <item msgid="7594476368958824007" quantity="one">"Příloha: <ns1:g id="NUM_ATTACHMENT">%1$d</ns1:g>"</item>
+    <item msgid="974463163535515223" quantity="other">"Přílohy: <ns1:g id="NUM_ATTACHMENT">%1$d</ns1:g>"</item>
+  </plurals>
+    <plurals name="move_messages">
+    <item msgid="320885379869442589" quantity="one">"Přesunout zprávu"</item>
+    <item msgid="371256717624461324" quantity="other">"Přesunout zprávy"</item>
+  </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+    <item msgid="1991747245324120305" quantity="few">"v(e) <ns1:g id="NUMBER_ACCOUNTS">%d</ns1:g> účtech"</item>
+    <item msgid="2723797835410343458" quantity="other">"v(e) <ns1:g id="NUMBER_ACCOUNTS">%d</ns1:g> účtech"</item>
+  </plurals>
+    <plurals name="notification_new_one_account_fmt">
+    <item msgid="3422945912787702191" quantity="one">"Nepřečtené zprávy: <ns1:g id="UNREAD_MESSAGE_COUNT">%1$d</ns1:g>(<ns1:g id="ACCOUNT">%2$s</ns1:g>)"</item>
+    <item msgid="6543078667692990869" quantity="few">"Nepřečtené zprávy: <ns1:g id="UNREAD_MESSAGE_COUNT">%1$d</ns1:g>(<ns1:g id="ACCOUNT">%2$s</ns1:g>)"</item>
+    <item msgid="6937673814351448076" quantity="other">"Nepřečtené zprávy: <ns1:g id="UNREAD_MESSAGE_COUNT">%1$d</ns1:g>(<ns1:g id="ACCOUNT">%2$s</ns1:g>)"</item>
+  </plurals>
+    <plurals name="number_of_accounts">
+    <item msgid="6343953132237244947" quantity="one">"Účet <ns1:g id="NUM_ACCOUNTS">%1$d</ns1:g>"</item>
+    <item msgid="8548760449976444566" quantity="other">"Počet účtů: <ns1:g id="NUM_ACCOUNTS">%1$d</ns1:g>"</item>
+  </plurals>
+    <plurals name="picker_combined_view_account_count">
+    <item msgid="380235084337895804" quantity="one">"<ns1:g id="ACCOUNT_COUNT">%d</ns1:g> účet"</item>
+    <item msgid="4145163147488719025" quantity="other">"Počet účtů: <ns1:g id="ACCOUNT_COUNT">%d</ns1:g>"</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string msgid="5199161365824352613" name="account">"Účet"</string>
+    <string msgid="8236846322040271280" name="account_delete_dlg_instructions_fmt">"Účet <ns1:g id="ACCOUNT">%s</ns1:g> bude z aplikace Email odebrán."</string>
+    <string msgid="6806087520856396608" name="account_delete_dlg_title">"Odebrat účet"</string>
+    <string msgid="6447629283679935840" name="account_duplicate_dlg_message_fmt">"Toto uživatelské jméno již používáte pro účet <ns1:g id="DUPLICATE">%s</ns1:g>."</string>
+    <string msgid="8089732986912704425" name="account_duplicate_dlg_title">"Duplicitní účet"</string>
+    <string msgid="1904775271866104941" name="account_error">"Nepodařilo se načíst informace o účtu."</string>
+    <string msgid="5514845993247300437" name="account_folder_list_summary_drafts">"Koncepty"</string>
+    <string msgid="7518263761297423255" name="account_folder_list_summary_inbox">"Doručená pošta"</string>
+    <string msgid="3059836696049399377" name="account_folder_list_summary_outbox">"Pošta k odeslání"</string>
+    <string msgid="3134312269246375723" name="account_folder_list_summary_starred">"Označené hvězdičkou"</string>
+    <string msgid="837218861494831989" name="account_name_display_all">"Všechny účty"</string>
+    <string msgid="1849612079678906607" name="account_out_of_quota">"Účet překročil limit místa na disku"</string>
+    <string msgid="8928309156658903257" name="account_password_spaces_error">"Toto heslo začíná nebo končí nejméně jednou mezerou. Většina serverů hesla s mezerami nepodporuje."</string>
+    <string msgid="8843806143923278214" name="account_security_dialog_content_fmt">"Účet <ns1:g id="ACCOUNT">%s</ns1:g> vyžaduje aktualizaci nastavení zabezpečení."</string>
+    <string msgid="430041952584831904" name="account_security_dialog_title">"Aktualizace zabezpečení"</string>
+    <string msgid="6932627044314460766" name="account_security_policy_explanation_fmt">"Server <ns1:g id="SERVER">%s</ns1:g> žádá o povolení, aby mohl vzdáleně ovládat některé funkce zabezpečení v zařízení Android."</string>
+    <string msgid="3511543138560418587" name="account_security_title">"Zabezpečení zařízení"</string>
+    <string msgid="4494079183315085171" name="account_settings_action">"Nastavení účtu"</string>
+    <string msgid="2980317599840958688" name="account_settings_background_attachments_label">"Stáhnout přílohy"</string>
+    <string msgid="5954218549226189376" name="account_settings_background_attachments_summary">"Automaticky stahovat přílohy posledních zpráv pomocí sítě Wi-Fi"</string>
+    <string msgid="5128545184407925226" name="account_settings_category_delete_account">"Odebrat účet"</string>
+    <string msgid="6669107430575866736" name="account_settings_data_usage">"Využití dat"</string>
+    <string msgid="3575963379680943640" name="account_settings_default_label">"Výchozí účet"</string>
+    <string msgid="1531901438624688482" name="account_settings_default_summary">"Použít tento účet jako výchozí pro odesílání e-mailů"</string>
+    <string msgid="4889158717472601718" name="account_settings_delete_account_label">"Odebrat účet"</string>
+    <string msgid="8894815221204511715" name="account_settings_description_label">"Název účtu"</string>
+    <string msgid="3106019627675996480" name="account_settings_edit_quick_responses_label">"Rychlé odpovědi"</string>
+    <string msgid="5284435342418252369" name="account_settings_edit_quick_responses_summary">"Upravit text, který při psaní e-mailů často vkládáte"</string>
+    <string msgid="8006323251094711431" name="account_settings_exit_server_settings">"Zahodit neuložené změny?"</string>
+    <string msgid="7858928031806297542" name="account_settings_incoming_label">"Nastavení příchozí pošty"</string>
+    <string msgid="2923044634831881068" name="account_settings_incoming_summary">"Uživatelské jméno, heslo a jiná nastavení serveru příchozí pošty"</string>
+    <string msgid="3492735234999710234" name="account_settings_login_dialog_content_fmt">"Uživatelské jméno nebo heslo pro účet <ns1:g id="ACCOUNT">%s</ns1:g> je nesprávné. Chcete údaje aktualizovat?"</string>
+    <string msgid="4024422579146302775" name="account_settings_login_dialog_title">"Přihlášení se nezdařilo."</string>
+    <string msgid="8271462919214560616" name="account_settings_mail_check_frequency_label">"Četnost kontroly doručené pošty"</string>
+    <string msgid="8186406122590008449" name="account_settings_name_label">"Vaše jméno"</string>
+    <string msgid="1042620094281375043" name="account_settings_notifications">"Nastavení upozornění"</string>
+    <string msgid="1630001017303007974" name="account_settings_notify_label">"E-mailová upozornění"</string>
+    <string msgid="6301122709602752038" name="account_settings_notify_summary">"Oznámit příchod e-mailu na systémové liště"</string>
+    <string msgid="4464829249980026745" name="account_settings_outgoing_label">"Nastavení odchozí pošty"</string>
+    <string msgid="3572093624332724311" name="account_settings_outgoing_summary">"Uživatelské jméno, heslo a jiná nastavení serveru odchozí pošty"</string>
+    <string msgid="8229878374785575207" name="account_settings_ringtone">"Vybrat vyzvánění"</string>
+    <string msgid="4925493817981624242" name="account_settings_servers">"Nastavení serveru"</string>
+    <string msgid="7262183168962779403" name="account_settings_signature_hint">"Připojit text k odesílaným zprávám"</string>
+    <string msgid="4091969938785803201" name="account_settings_signature_label">"Podpis"</string>
+    <string msgid="8403582255413830007" name="account_settings_summary">"Frekvence synchronizace, oznámení apod."</string>
+    <string msgid="3039820725699412208" name="account_settings_sync_calendar_enable">"Synchronizovat kalendář"</string>
+    <string msgid="5241995538395965804" name="account_settings_sync_calendar_summary">"Synchronizovat kalendář pro tento účet"</string>
+    <string msgid="1369272986009573218" name="account_settings_sync_contacts_enable">"Synchronizovat kontakty"</string>
+    <string msgid="816919452270997919" name="account_settings_sync_contacts_summary">"Synchronizovat kontakty pro tento účet"</string>
+    <string msgid="3754115565685222477" name="account_settings_sync_email_enable">"Synchronizovat e-maily"</string>
+    <string msgid="262964076412310990" name="account_settings_sync_email_summary">"Synchronizovat e-mail pro tento účet"</string>
+    <string msgid="6739506816960483174" name="account_settings_vibrate_when_always">"Vždy"</string>
+    <string msgid="308167729046312952" name="account_settings_vibrate_when_dlg_title">"Vibrace"</string>
+    <string msgid="708477308761702671" name="account_settings_vibrate_when_label">"Vibrace"</string>
+    <string msgid="3759680093309511614" name="account_settings_vibrate_when_never">"Nikdy"</string>
+    <string msgid="6417076436551648924" name="account_settings_vibrate_when_silent">"Pouze v tichém režimu"</string>
+    <string msgid="3991584445166247189" name="account_settings_vibrate_when_summary">"Při příchodu e-mailu také vibrovat"</string>
+    <string msgid="3574102329184831086" name="account_setup_account_type_headline">"Typ účtu"</string>
+    <string msgid="114515540798408760" name="account_setup_account_type_instructions">"O jaký typ účtu se jedná?"</string>
+    <string msgid="7156551693961182124" name="account_setup_account_type_title">"Nastavení účtu"</string>
+    <string msgid="5924790142029806711" name="account_setup_basics_default_label">"Použít tento účet jako výchozí pro odesílání e-mailů"</string>
+    <string msgid="3454164053624112047" name="account_setup_basics_email_label">"E-mailová adresa"</string>
+    <string msgid="1147638872869594157" name="account_setup_basics_exchange_title">"Přidat účet Exchange"</string>
+    <string msgid="4980422714586153809" name="account_setup_basics_exchange_title_alternate">"Přidat účet Exchange ActiveSync"</string>
+    <string msgid="6726590205905464015" name="account_setup_basics_headline">"E-mailový účet"</string>
+    <string msgid="8053852205391155912" name="account_setup_basics_manual_setup_action">"Ruční nastavení"</string>
+    <string msgid="9133549799291519298" name="account_setup_basics_password_label">"Heslo"</string>
+    <string msgid="3578333196594678422" name="account_setup_basics_title">"Nastavení účtu"</string>
+    <string msgid="5356212700221438863" name="account_setup_check_settings_check_incoming_msg">"Kontrola nastavení serveru příchozí pošty..."</string>
+    <string msgid="4033015234096725343" name="account_setup_check_settings_check_outgoing_msg">"Kontrola nastavení serveru odchozí pošty..."</string>
+    <string msgid="4121970450267725664" name="account_setup_check_settings_retr_info_msg">"Načítání informací o účtu..."</string>
+    <string msgid="8473793588405277962" name="account_setup_exchange_certificate_title">"Certifikát klienta"</string>
+    <string msgid="1646827333223157658" name="account_setup_exchange_device_id_label">"ID mobilního zařízení"</string>
+    <string msgid="6099049671599242131" name="account_setup_exchange_headline">"Nastavení serveru"</string>
+    <string msgid="1119542961954780872" name="account_setup_exchange_no_certificate">"Žádný"</string>
+    <string msgid="5633249155510301766" name="account_setup_exchange_remove_certificate">"Odebrat"</string>
+    <string msgid="1536103662037268683" name="account_setup_exchange_select_certificate">"Vybrat"</string>
+    <string msgid="795137797983360826" name="account_setup_exchange_server_label">"Server"</string>
+    <string msgid="6704105469083211236" name="account_setup_exchange_ssl_label">"Použít zabezpečené připojení (SSL)"</string>
+    <string msgid="396004732514751781" name="account_setup_exchange_title">"Nastavení účtu"</string>
+    <string msgid="6232880757633882678" name="account_setup_exchange_trust_certificates_label">"Přijímat všechny certifikáty protokolu SSL"</string>
+    <string msgid="8690682770083161349" name="account_setup_exchange_use_certificate">"Použít klientský certifikát"</string>
+    <string msgid="6517176180828983060" name="account_setup_exchange_username_label">"Doména\\Uživatelské jméno"</string>
+    <string msgid="6835358740050287051" name="account_setup_failed_access_denied">"Nemáte oprávnění k synchronizaci s tímto serverem. Vyžádejte si další informace od správce serveru."</string>
+    <string msgid="6799839150250217566" name="account_setup_failed_auth_required">"Metody ověřování nejsou na serveru podporovány."</string>
+    <string msgid="7245835883180762722" name="account_setup_failed_certificate_inaccessible">"Certifikát je neplatný nebo nedostupný."</string>
+    <string msgid="1280569002588325367" name="account_setup_failed_certificate_required">"Je vyžadován certifikát klienta. Chcete se připojit k serveru pomocí certifikátu klienta?"</string>
+    <string msgid="222908719765968691" name="account_setup_failed_check_credentials_message">"Server odpověděl chybou. Zkontrolujte prosím uživatelské jméno a heslo a zkuste to znovu."</string>
+    <string msgid="42827150104879570" name="account_setup_failed_dlg_auth_message">"Uživatelské jméno nebo heslo není správné"</string>
+    <string msgid="8598560266430207606" name="account_setup_failed_dlg_auth_message_fmt">"Uživatelské jméno nebo heslo není správné."\n"(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="3836152264696108805" name="account_setup_failed_dlg_certificate_message">"Nelze se bezpečně připojit k serveru."</string>
+    <string msgid="2121921642915593041" name="account_setup_failed_dlg_certificate_message_fmt">"Nelze se bezpečně připojit k serveru."\n"(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="5355993309841479360" name="account_setup_failed_dlg_edit_details_action">"Upravit podrobnosti"</string>
+    <string msgid="4942810054116129684" name="account_setup_failed_dlg_server_message">"Nelze se připojit k serveru."</string>
+    <string msgid="2525425638303883232" name="account_setup_failed_dlg_server_message_fmt">"Nelze se připojit k serveru."\n"(<ns1:g id="ERROR">%s</ns1:g>)"</string>
+    <string msgid="9083263347962940552" name="account_setup_failed_dlg_title">"Nelze dokončit"</string>
+    <string msgid="7802604687451830378" name="account_setup_failed_ioerror">"Nelze navázat připojení k serveru."</string>
+    <string msgid="4607759927226943569" name="account_setup_failed_protocol_unsupported">"Zadali jste nesprávnou adresu serveru nebo server požaduje verzi protokolu, kterou aplikace E-mail nepodporuje."</string>
+    <string msgid="925820957665764964" name="account_setup_failed_security">"Nelze navázat připojení k serveru z důvodu chyby zabezpečení."</string>
+    <string msgid="3210264746877120355" name="account_setup_failed_security_policies_unsupported">"Server vyžaduje funkce zabezpečení, které toto zařízení Android nepodporuje, například: <ns1:g id="ERROR">%s</ns1:g>"</string>
+    <string msgid="307030406688611327" name="account_setup_failed_tls_required">"Služba TLS je požadována, ale není podporována na serveru."</string>
+    <string msgid="222216840911785631" name="account_setup_incoming_delete_policy_delete_label">"Při smazání z Doručené pošty"</string>
+    <string msgid="9213590134693857912" name="account_setup_incoming_delete_policy_label">"Mazat e-maily ze serveru"</string>
+    <string msgid="3222897501875871041" name="account_setup_incoming_delete_policy_never_label">"Nikdy"</string>
+    <string msgid="6183711037633407184" name="account_setup_incoming_headline">"Nastavení serveru příchozí pošty"</string>
+    <string msgid="9190845919067906033" name="account_setup_incoming_imap_path_prefix_hint">"Nepovinné"</string>
+    <string msgid="401167247072926810" name="account_setup_incoming_imap_path_prefix_label">"Předpona cesty IMAP"</string>
+    <string msgid="8685076830847734322" name="account_setup_incoming_imap_server_label">"Server IMAP"</string>
+    <string msgid="6365327603172559859" name="account_setup_incoming_password_label">"Heslo"</string>
+    <string msgid="4917504440057879152" name="account_setup_incoming_pop_server_label">"Server POP"</string>
+    <string msgid="8214738923690447796" name="account_setup_incoming_port_label">"Port"</string>
+    <string msgid="2110260791086007424" name="account_setup_incoming_security_label">"Typ zabezpečení"</string>
+    <string msgid="8300169413118264895" name="account_setup_incoming_security_none_label">"Žádný"</string>
+    <string msgid="2798501138420163861" name="account_setup_incoming_security_ssl_label">"SSL/TLS"</string>
+    <string msgid="6151855090123117538" name="account_setup_incoming_security_ssl_trust_certificates_label">"SSL/TLS (Přijímat všechny certifikáty)"</string>
+    <string msgid="6573498431821879660" name="account_setup_incoming_security_tls_label">"STARTTLS"</string>
+    <string msgid="6149084428423662620" name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS (Přijímat všechny certifikáty)"</string>
+    <string msgid="6796626791039136005" name="account_setup_incoming_title">"Nastavení účtu"</string>
+    <string msgid="5700581386104070302" name="account_setup_incoming_username_label">"Uživatelské jméno"</string>
+    <string msgid="8033895024273259196" name="account_setup_names_account_name_label">"Pojmenovat tento účet (nepovinné)"</string>
+    <string msgid="2413440250372658881" name="account_setup_names_headline">"Váš účet je nastaven, e-mail je na cestě!"</string>
+    <string msgid="8483517350241119291" name="account_setup_names_title">"Nastavení účtu"</string>
+    <string msgid="6791427018325367364" name="account_setup_names_user_name_empty_error">"Toto pole nesmí být prázdné."</string>
+    <string msgid="8967410178488604770" name="account_setup_names_user_name_label">"Vaše jméno (zobrazované na odchozích zprávách)"</string>
+    <string msgid="5247749298276451846" name="account_setup_options_background_attachments_label">"Během připojení k síti Wi-Fi automaticky stahovat přílohy"</string>
+    <string msgid="8869166381331276697" name="account_setup_options_default_label">"Použít tento účet jako výchozí pro odesílání e-mailů"</string>
+    <string msgid="4181274232835368085" name="account_setup_options_headline">"Možnosti účtu"</string>
+    <string msgid="5344463157247877480" name="account_setup_options_mail_check_frequency_10min">"Každých 10 minut"</string>
+    <string msgid="5052776740089741793" name="account_setup_options_mail_check_frequency_15min">"Každých 15 minut"</string>
+    <string msgid="3767715356039692899" name="account_setup_options_mail_check_frequency_1hour">"Každou hodinu"</string>
+    <string msgid="1097088928685931864" name="account_setup_options_mail_check_frequency_30min">"Každých 30 minut"</string>
+    <string msgid="6388939895878539307" name="account_setup_options_mail_check_frequency_5min">"Každých 5 minut"</string>
+    <string msgid="4824859792882810053" name="account_setup_options_mail_check_frequency_label">"Četnost kontroly doručené pošty"</string>
+    <string msgid="287951859480505416" name="account_setup_options_mail_check_frequency_never">"Nikdy"</string>
+    <string msgid="5934525907736008673" name="account_setup_options_mail_check_frequency_push">"Automaticky (v případě potřeby)"</string>
+    <string msgid="3965715241135811407" name="account_setup_options_mail_window_1day">"Jeden den"</string>
+    <string msgid="5846359669750047081" name="account_setup_options_mail_window_1month">"Jeden měsíc"</string>
+    <string msgid="5639718031108023741" name="account_setup_options_mail_window_1week">"Jeden týden"</string>
+    <string msgid="4567049268124213035" name="account_setup_options_mail_window_2weeks">"Dva týdny"</string>
+    <string msgid="736181102295878114" name="account_setup_options_mail_window_3days">"Tři dny"</string>
+    <string msgid="5372861827683632364" name="account_setup_options_mail_window_all">"Vše"</string>
+    <string msgid="4188895354366183790" name="account_setup_options_mail_window_auto">"Automatické"</string>
+    <string msgid="8321351926520165832" name="account_setup_options_mail_window_default">"Použít výchozí nastavení účtu"</string>
+    <string msgid="7582247646138987328" name="account_setup_options_mail_window_label">"Počet dní k synchronizaci"</string>
+    <string msgid="1247525794828820038" name="account_setup_options_notify_label">"Upozornit mě na příchod e-mailu"</string>
+    <string msgid="3195979658426293931" name="account_setup_options_sync_calendar_label">"Synchronizovat kalendář z tohoto účtu."</string>
+    <string msgid="7467467090023434271" name="account_setup_options_sync_contacts_label">"Synchronizovat kontakty z tohoto účtu."</string>
+    <string msgid="3930927721878987383" name="account_setup_options_sync_email_label">"Synchronizovat e-mail z tohoto účtu."</string>
+    <string msgid="9016600767888846051" name="account_setup_options_title">"Nastavení účtu"</string>
+    <string msgid="2025001060935366394" name="account_setup_outgoing_headline">"Nastavení serveru odchozí pošty"</string>
+    <string msgid="227844585493317550" name="account_setup_outgoing_password_label">"Heslo"</string>
+    <string msgid="7573207437835827876" name="account_setup_outgoing_port_label">"Port"</string>
+    <string msgid="6371514297854287948" name="account_setup_outgoing_require_login_label">"Požadovat přihlášení"</string>
+    <string msgid="911398071120720589" name="account_setup_outgoing_security_label">"Typ zabezpečení"</string>
+    <string msgid="6035137446691195177" name="account_setup_outgoing_smtp_server_label">"Server SMTP"</string>
+    <string msgid="7208495965665711539" name="account_setup_outgoing_title">"Nastavení účtu"</string>
+    <string msgid="3309680794731596981" name="account_setup_outgoing_username_label">"Uživatelské jméno"</string>
+    <string msgid="5410714107656671761" name="account_setup_security_policies_required_fmt">"Server <ns1:g id="SERVER">%s</ns1:g> žádá o povolení, aby mohl vzdáleně ovládat některé funkce zabezpečení v zařízení Android. Chcete dokončit nastavení tohoto účtu?"</string>
+    <string msgid="1850321535870447468" name="account_setup_security_required_title">"Vzdálená správa zabezpečení"</string>
+    <string msgid="3968270274727947460" name="account_setup_username_password_toast">"Zadejte platnou e-mailovou adresu a heslo."</string>
+    <string msgid="1618869759801584109" name="account_setup_username_uneditable_error">"Uživatelské jméno účtu nemůžete změnit. Chcete-li přidat účet s jiným uživatelským jménem, dotkněte se možnosti Přidat účet."</string>
+    <string msgid="1994861845225243190" name="account_shortcut_picker_name">"E-mailový účet"</string>
+    <string msgid="1039929224016048015" name="account_shortcut_picker_title">"Vybrat účet"</string>
+    <string msgid="1491126253077950685" name="accounts_welcome">"Většinu e-mailových účtů můžete nakonfigurovat v několika snadných krocích."</string>
+    <string msgid="4432917203403596617" name="accounts_welcome_exchange">"Účet Exchange můžete nakonfigurovat v několika snadných krocích."</string>
+    <string msgid="1319376442032224845" name="accounts_welcome_exchange_alternate">"Účet služby Exchange ActiveSync můžete nakonfigurovat v několika snadných krocích."</string>
+    <string msgid="7484457755531286333" name="action_bar_mailbox_list_title">"Složky"</string>
+    <string msgid="8835736309476033727" name="add_account_action">"Přidat účet"</string>
+    <string msgid="4757145078498200242" name="add_cc_bcc_menu">"Přidat kopii/skrytou kopii"</string>
+    <string msgid="2203398371671979481" name="add_file_attachment">"Přiložit soubor"</string>
+    <string msgid="5815426892327290362" name="app_name">"E-mail"</string>
+    <string msgid="7812006268714926951" name="application_name">"Okamžité nahrávání"</string>
+    <string msgid="2817790592227462682" name="attachment_info_apk_install_disabled">"Aplikace nelze instalovat přímo z e-mailu. Nejdříve aplikaci uložte a poté ji nainstalujte pomocí aplikace Stahování."</string>
+    <string msgid="4124655487276125596" name="attachment_info_application_settings">"Nastavení aplikace"</string>
+    <string msgid="4995755709689009622" name="attachment_info_dialog_default_title">"Informace o příloze"</string>
+    <string msgid="3174350153882915382" name="attachment_info_dialog_wifi_title">"Je požadováno připojení Wi-Fi"</string>
+    <string msgid="6576029010855055528" name="attachment_info_malware">"Tento soubor nemůžete uložit ani otevřít, protože tento typ přílohy může obsahovat škodlivý software."</string>
+    <string msgid="8139209405745777924" name="attachment_info_no_intent">"Nemáte nainstalovanou žádnou aplikaci, která by dokázala tuto přílohu otevřít. Zkuste příslušnou aplikaci stáhnout ze služby Android Market."</string>
+    <string msgid="3560422300127587508" name="attachment_info_policy">"Tuto přílohu nelze uložit ani otevřít kvůli zásadám zabezpečení účtu."</string>
+    <string msgid="3270731101769840006" name="attachment_info_sideload_disabled">"Tato příloha je aplikace. Chcete-li ji nainstalovat, zaškrtněte nejdříve v sekci Nastavení > Aplikace možnost Neznámé zdroje."</string>
+    <string msgid="8342655396805943320" name="attachment_info_unknown">"Přílohu nelze otevřít."</string>
+    <string msgid="1481120960014563617" name="attachment_info_wifi_only">"Tato příloha je příliš velká, aby ji bylo možné stáhnout pomocí mobilní sítě. Můžete ji stáhnout při příštím připojení k síti Wi-Fi."</string>
+    <string msgid="96432970927503597" name="attachment_info_wifi_settings">"Nastavení Wi-Fi"</string>
+    <string msgid="7155322700141145123" name="attachment_not_found">"Přílohu nelze stáhnout."</string>
+    <string msgid="3098643138241111579" name="bcc">"Skrytá kopie"</string>
+    <string msgid="4279864165439577668" name="body_hint">"Napsat zprávu"</string>
+    <string msgid="1207103189404543868" name="cancel">"Zrušit"</string>
+    <string msgid="6967435583794021865" name="cancel_action">"Zrušit"</string>
+    <string msgid="7922594026384944163" name="cannot_move_multiple_accounts_toast">"Přesun nelze uskutečnit, protože vybrané zprávy pocházejí z různých účtů."</string>
+    <string msgid="6558083148128616292" name="cannot_move_protocol_not_supported_toast">"Účty POP3 přesun nepodporují."</string>
+    <string msgid="7093107954841896970" name="cannot_move_special_mailboxes_toast">"Zprávy ve složkách Koncepty, Pošta k odeslání a Odeslané nelze přesouvat."</string>
+    <string msgid="2742423840964045801" name="category_general_preferences">"Aplikace"</string>
+    <string msgid="7017720927911078193" name="cc">"Kopie"</string>
+    <string msgid="81937507117528954" name="choose_attachment_dialog_title">"Výběr přílohy"</string>
+    <string msgid="533058985745238100" name="close_action">"Zavřít"</string>
+    <string msgid="6719715000947601844" name="completed_no_file">"Soubor nebyl nalezen."</string>
+    <string msgid="4045702519637388045" name="compose_action">"Nová zpráva"</string>
+    <string msgid="427986915662706899" name="compose_title">"Nová zpráva"</string>
+    <string msgid="3062715563215392251" name="create_action">"Vytvořit novou"</string>
+    <string msgid="5175710493691536719" name="debug_title">"Ladit"</string>
+    <string msgid="6160213145745376955" name="debug_version_fmt">"Verze: <ns1:g id="VERSION">%s</ns1:g>"</string>
+    <string msgid="8421026208288857155" name="delete_action">"Smazat"</string>
+    <string msgid="3076922270182841978" name="delete_quick_response_action">"Smazat"</string>
+    <string msgid="7472552212462849956" name="destination_format">"%1$s „%2$s“"</string>
+    <string msgid="426727923791430306" name="device_admin_description">"Povoluje zásady zabezpečení určené serverem"</string>
+    <string msgid="8680224994637869414" name="device_admin_label">"E-mail"</string>
+    <string msgid="4318047428346248089" name="dialog_first_wifi">"Velké soubory se nahrají pouze prostřednictvím připojení Wi-Fi."</string>
+    <string msgid="2595386304244274687" name="dialog_sync_all_canceled">"Synchronizace všeho zrušena"</string>
+    <string msgid="6227689508729774372" name="dialog_sync_all_error_title">"Synchronizovat vše"</string>
+    <string msgid="4066988191364416995" name="dialog_sync_all_found_none">"Není potřeba nahrávat žádné další fotografie nebo videa."</string>
+    <string msgid="1666557491871126684" name="dialog_sync_all_preparing">"Příprava <ns1:g id="PHOTOCOUNT">%1$d</ns1:g> fotografií a <ns1:g id="VIDEOCOUNT">%2$d</ns1:g> videí k nahrání..."</string>
+    <string msgid="3175935645776839524" name="dialog_sync_all_scanning">"Vyhledávání souborů..."</string>
+    <string msgid="2177063494820815086" name="dialog_sync_all_server_error">"Při komunikaci se serverem došlo k potížím. Zkuste to prosím znovu později."</string>
+    <string msgid="6196985268695592382" name="disable_admin_warning">"UPOZORNĚNÍ: Deaktivujete-li oprávnění aplikace E-mail spravovat toto zařízení, budou smazány všechny účty aplikace E-mail, které toto oprávnění vyžadují. Společně s těmito účty budou smazány i všechny jejich e-maily, kontakty, události v kalendářích a další údaje."</string>
+    <string msgid="6532206074859505968" name="discard_action">"Zahodit"</string>
+    <string msgid="7497990549515580249" name="done_action">"Hotovo"</string>
+    <string msgid="4322494050816995390" name="edit_quick_response_dialog">"Upravit rychlou odpověď"</string>
+    <string msgid="8827210108543430336" name="eml_view_title">"Zobraz. souboru <ns1:g id="FILENAME">%s</ns1:g>"</string>
+    <string msgid="6775234299515596760" name="error_loading_message_body">"Text zprávy se nepodařilo načíst. Zpráva je možná příliš velká a proto ji nelze zobrazit."</string>
+    <string msgid="1190783774800310346" name="exchange_name">"Firemní"</string>
+    <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="8357723053952213242" name="failed_bad_response">"Chyba služby"</string>
+    <string msgid="2531660472217573602" name="failed_network_error">"Chyba sítě"</string>
+    <string msgid="2428208784689362254" name="failed_server_auth">"Ověření se nezdařilo."</string>
+    <string msgid="4664259801498253756" name="favorite_action">"Označit hvězdičkou"</string>
+    <string msgid="689924777356099393" name="finished_empty">"Seznam dokončených položek je prázdný."</string>
+    <string msgid="803752037646090928" name="format_date_uploaded">"Nahráno: %s"</string>
+    <string msgid="1420459750508777491" name="format_progress_percent">"<ns1:g id="NUMBER">%d</ns1:g><ns1:g id="PERCENTSIGN">%%</ns1:g>"</string>
+    <string msgid="669174181042344116" name="forward_action">"Předat dál"</string>
+    <string msgid="6176608320359303255" name="forward_download_failed_ticker">"Nepodařilo se přeposlat jednu nebo více příloh."</string>
+    <string msgid="6139701848515572511" name="forward_download_failed_title">"Příloha nebyla přeposlána"</string>
+    <string msgid="6140450617663543464" name="gal_searching_fmt">"Vyhledávání na webu <ns1:g id="DOMAIN">%s</ns1:g>…"</string>
+    <string msgid="5405052109452503909" name="general_preference_auto_advance_dialog_title">"Pokračovat na"</string>
+    <string msgid="213945004511666631" name="general_preference_auto_advance_label">"Automaticky pokračovat"</string>
+    <string msgid="7834069275897767359" name="general_preference_auto_advance_message_list">"Seznam zpráv"</string>
+    <string msgid="1336720027570509885" name="general_preference_auto_advance_newer">"Novější zpráva"</string>
+    <string msgid="8273143493185128646" name="general_preference_auto_advance_older">"Starší zpráva"</string>
+    <string msgid="6483439980032715119" name="general_preference_auto_advance_summary">"Vyberte, kterou obrazovku chcete zobrazit po smazání zprávy."</string>
+    <string msgid="7806833609810003510" name="general_preference_reply_all_label">"Odpovědět všem"</string>
+    <string msgid="9191932552604733245" name="general_preference_reply_all_summary">"Nastavit volbu Odpovědět všem jako výchozí volbu odpovídání na zprávy"</string>
+    <string msgid="7446841758331151643" name="general_preference_text_zoom_dialog_title">"Velikost textu zprávy"</string>
+    <string msgid="4270503132355963031" name="general_preference_text_zoom_huge">"Velmi velký"</string>
+    <string msgid="4021955890499565713" name="general_preference_text_zoom_label">"Velikost textu zprávy"</string>
+    <string msgid="6874323663381586918" name="general_preference_text_zoom_large">"Velký"</string>
+    <string msgid="1765540147950855479" name="general_preference_text_zoom_normal">"Normální"</string>
+    <string msgid="6618520238223144876" name="general_preference_text_zoom_small">"Malý"</string>
+    <string msgid="2948174583663330937" name="general_preference_text_zoom_tiny">"Velmi malý"</string>
+    <string msgid="2648501128162793879" name="general_preferences_clear_trusted_senders_summary">"Obrázky ve zprávách se nebudou zobrazovat automaticky"</string>
+    <string msgid="507988226277210305" name="general_preferences_clear_trusted_senders_title">"Dotaz na zobrazování obrázků"</string>
+    <string msgid="9204600297009680176" name="header_label_general_preferences">"Obecné"</string>
+    <string msgid="5749227022559285302" name="login_failed_ticker">"Přihlášení selhalo: <ns1:g id="ACCOUNT_NAME">%s</ns1:g>"</string>
+    <string msgid="7624349996212476176" name="login_failed_title">"Přihlášení se nezdařilo."</string>
+    <string msgid="4261295503836387876" name="mailbox_list_account_selector_account_header">"Účty"</string>
+    <string msgid="1556327299894225044" name="mailbox_list_account_selector_combined_view">"Kombinované zobrazení"</string>
+    <string msgid="3320144348694625092" name="mailbox_list_account_selector_mailbox_header_fmt">"Nejnovější složky (<ns1:g id="EMAIL_ADDRESS">%s</ns1:g>)"</string>
+    <string msgid="4185052839366909439" name="mailbox_list_account_selector_show_all_folders">"Zobrazit všechny složky"</string>
+    <string msgid="8922653040520361032" name="mailbox_list_recent_mailboxes">"Poslední složky"</string>
+    <string msgid="484260487104726379" name="mailbox_list_user_mailboxes">"Všechny složky"</string>
+    <string msgid="4868718300700514319" name="mailbox_name_display_drafts">"Koncepty"</string>
+    <string msgid="3542327124749861736" name="mailbox_name_display_inbox">"Doručená pošta"</string>
+    <string msgid="9046762505977999288" name="mailbox_name_display_junk">"Nevyžádaná pošta"</string>
+    <string msgid="2826214174661417662" name="mailbox_name_display_outbox">"Pošta k odeslání"</string>
+    <string msgid="3426058998191869523" name="mailbox_name_display_sent">"Odeslaná pošta"</string>
+    <string msgid="9139069064580630647" name="mailbox_name_display_trash">"Koš"</string>
+    <string msgid="1015674989793998695" name="mailbox_name_display_unread">"Nepřečtené"</string>
+    <string msgid="9077316556563252246" name="mailbox_preferences_header">"Nastavení synchronizace"</string>
+    <string msgid="8008375875310554776" name="mailbox_settings_action">"Možnosti synchronizace"</string>
+    <string msgid="4705845931573373274" name="mailbox_settings_activity_title">"Možnosti synchronizace"</string>
+    <string msgid="6485481250424219240" name="mailbox_settings_activity_title_with_mailbox">"Možnosti synchronizace (<ns1:g id="MAILBOXX_NAME">%s</ns1:g>)"</string>
+    <string msgid="1246075442689328906" name="mailbox_settings_mailbox_check_frequency_label">"Frekvence kontrol"</string>
+    <string msgid="2957945231022052672" name="mailbox_settings_mailbox_sync_window_label">"Počet dní k synchronizaci"</string>
+    <string msgid="4152973927804882131" name="mailbox_shortcut_picker_title">"Vyberte složku"</string>
+    <string msgid="3521722786363963155" name="manager_activity_last_sync_format">"Poslední synchronizace:"\n"%1$s"\n"%2$s"</string>
+    <string msgid="1934417351195364210" name="manager_do_not_upload">"Nenahrávat"</string>
+    <string msgid="4700366545949687846" name="manager_list_switcher_completed_format">"Dokončená nahrávání [%d]"</string>
+    <string msgid="3517166351274747172" name="manager_list_switcher_pending_format">"Nevyřízená nahrávání [%d]"</string>
+    <string msgid="7046645023617816964" name="manager_pause">"Pozastavit nahrávání"</string>
+    <string msgid="1608630525599824933" name="manager_resume">"Pokračovat v nahrávání"</string>
+    <string msgid="939534318469518843" name="manager_retry">"Opakovat"</string>
+    <string msgid="5207146576940014345" name="manager_sync_all">"Synchronizovat vše"</string>
+    <string msgid="2331820022556147571" name="manager_toast_canceled">"Nahrávání zrušeno"</string>
+    <string msgid="4274246237708259185" name="manager_toast_not_canceled">"Nahrávání již bylo dokončeno"</string>
+    <string msgid="5453932124711705632" name="manager_upload_later">"Nahrát později"</string>
+    <string msgid="2284408578936376342" name="manager_upload_now">"Nahrát"</string>
+    <string msgid="5119780300858727185" name="manager_view_completed">"Zobrazit dokončená"</string>
+    <string msgid="3714544539986850549" name="manager_view_media">"Zobrazit"</string>
+    <string msgid="4403346072556950609" name="manager_view_pending">"Zobrazit čekající"</string>
+    <string msgid="3766298115778767554" name="mark_as_unread_action">"Označit jako nepřečtené"</string>
+    <string msgid="6126007571523662799" name="menu_hide_completed_items">"Skrýt podrobnosti"</string>
+    <string msgid="9216079748638469160" name="menu_hide_pending_items">"Skrýt čekající nahrávání"</string>
+    <string msgid="5088116127086866634" name="menu_settings">"Nastavení"</string>
+    <string msgid="4380487776635859783" name="menu_show_completed_items">"Zobrazit podrobnosti"</string>
+    <string msgid="8798191388238604213" name="menu_show_pending_items">"Zobrazit čekající nahrávání"</string>
+    <string msgid="6546633605818509942" name="menu_view_online">"Zobrazit online"</string>
+    <string msgid="4401081828287333647" name="message_compose_attachment_size">"Soubor nelze připojit, protože je příliš velký."</string>
+    <string msgid="9177337492358841680" name="message_compose_bcc_hint">"Skrytá kopie"</string>
+    <string msgid="8481884461031434144" name="message_compose_cc_hint">"Kopie"</string>
+    <string msgid="6415258924917140704" name="message_compose_display_name">"Uživatel <ns1:g id="NAME">%1$s</ns1:g> a další uživatelé (<ns1:g id="NUMBER">%2$d</ns1:g>)"</string>
+    <string msgid="1817633338629885643" name="message_compose_error_invalid_email">"Některé e-mailové adresy jsou neplatné."</string>
+    <string msgid="4903715888250785486" name="message_compose_error_no_recipients">"Je třeba přidat nejméně jednoho příjemce."</string>
+    <string msgid="4084843296548498041" name="message_compose_from_label">"Od:"</string>
+    <string msgid="5181300290654579434" name="message_compose_fwd_header_fmt">\n\n"-------- Původní zpráva --------"\n"Předmět: <ns1:g id="SUBJECT">%1$s</ns1:g>"\n"Odesílatel: <ns1:g id="SENDER">%2$s</ns1:g>"\n"Komu: <ns1:g id="TO">%3$s</ns1:g>"\n"Kopie: <ns1:g id="CC_0">%4$s</ns1:g>"\n\n</string>
+    <string msgid="8165567368956050390" name="message_compose_include_quoted_text_checkbox_label">"Zahrnout text"</string>
+    <string msgid="5314107302508728189" name="message_compose_insert_quick_response_list_title">"Vložit rychlou odpověď"</string>
+    <string msgid="6950097435198536165" name="message_compose_quoted_text_label">"Zahrnout text v uvozovkách"</string>
+    <string msgid="8815624773273454573" name="message_compose_reply_header_fmt">\n\n"<ns1:g id="SENDER">%s</ns1:g>napsal/a:"\n\n</string>
+    <string msgid="6993487234024160782" name="message_compose_subject_hint">"Předmět"</string>
+    <string msgid="2891895306418177013" name="message_compose_to_hint">"Komu"</string>
+    <string msgid="5016042255170947834" name="message_decode_error">"Při dekódování zprávy došlo k chybě."</string>
+    <string msgid="6603370107217227252" name="message_delete_dialog_title"/>
+    <string msgid="3891461729325584026" name="message_discarded_toast">"Zpráva byla zahozena."</string>
+    <string msgid="4004644319382041459" name="message_is_empty_description">"Předmět neuveden"</string>
+    <string msgid="7428302707908825692" name="message_list_load_more_messages_action">"Načíst další zprávy"</string>
+    <string msgid="7846910091922523867" name="message_list_no_messages">"Žádné zprávy"</string>
+    <string msgid="8502942186631824114" name="message_list_send_pending_messages_action">"Poslat všechny zprávy"</string>
+    <string msgid="1783589062530679520" name="message_list_subject_snippet_divider">"  – "</string>
+    <string msgid="8443125659172627665" name="message_saved_toast">"Zpráva byla uložena jako koncept."</string>
+    <string msgid="3597047441062021199" name="message_subject_description">"Předmět"</string>
+    <string msgid="6523810929103546865" name="message_view_always_show_pictures_button">"Vždy zobrazovat"</string>
+    <string msgid="6838463134312859448" name="message_view_always_show_pictures_confirmation">"Obrázky od tohoto odesilatele se zobrazí automaticky."</string>
+    <string msgid="7685500276479967959" name="message_view_always_show_pictures_prompt">"Vždy zobrazovat obrázky od tohoto odesílatele?"</string>
+    <string msgid="756797444835526487" name="message_view_attachment_background_load">"Poznámka: Jedna či více příloh v přeposílané zprávě bude před odesláním stažena."</string>
+    <string msgid="316700885943712101" name="message_view_attachment_cancel_action">"Zastavit"</string>
+    <string msgid="3908148393469626740" name="message_view_attachment_info_action">"Informace"</string>
+    <string msgid="381211378884166381" name="message_view_attachment_install_action">"Instalovat"</string>
+    <string msgid="8645178445048233745" name="message_view_attachment_load_action">"Načíst"</string>
+    <string msgid="5214215414665114061" name="message_view_attachment_play_action">"Přehrát"</string>
+    <string msgid="4704436274670997903" name="message_view_attachment_save_action">"Uložit"</string>
+    <string msgid="3432810414785232025" name="message_view_attachment_saved">"Uloženo"</string>
+    <string msgid="4408093860407096078" name="message_view_attachment_view_action">"Zobrazit"</string>
+    <string msgid="7577479221285310198" name="message_view_bcc_label">"Skrytá kopie:"</string>
+    <string msgid="6322992216371163122" name="message_view_cc_label">"Kopie:"</string>
+    <string msgid="7033814961837313339" name="message_view_date_label">"Datum:"</string>
+    <string msgid="7714482237896346836" name="message_view_display_attachment_toast">"Přílohu nelze zobrazit."</string>
+    <string msgid="6055076379282772675" name="message_view_from_label">"Od:"</string>
+    <string msgid="744546668021679819" name="message_view_invite_accept">" Ano"</string>
+    <string msgid="6119797303297149463" name="message_view_invite_decline">" Ne"</string>
+    <string msgid="7555189462441562318" name="message_view_invite_maybe">" Možná"</string>
+    <string msgid="1212799906603873708" name="message_view_invite_text">"Přijdete?"</string>
+    <string msgid="3418949733434713805" name="message_view_invite_title">"Pozvánka v kalendáři"</string>
+    <string msgid="8547454326090527202" name="message_view_invite_toast_maybe">"Na tuto pozvánku jste odpověděli „možná“."</string>
+    <string msgid="1842341256942784143" name="message_view_invite_toast_no">"Tuto pozvánku jste odmítli."</string>
+    <string msgid="6802274503171644414" name="message_view_invite_toast_yes">"Tuto pozvánku jste přijali."</string>
+    <string msgid="5521032519960111675" name="message_view_invite_view">"Zobrazit v Kalendáři"</string>
+    <string msgid="8605967295095023587" name="message_view_load_attachment_failed_toast">"Přílohu <ns1:g id="FILENAME">%s</ns1:g> nelze načíst."</string>
+    <string msgid="9042008615386883449" name="message_view_message_details_dialog_title">"Podrobnosti zprávy"</string>
+    <string msgid="2190862552581773765" name="message_view_move_to_newer">"Novější"</string>
+    <string msgid="4993043091356700890" name="message_view_move_to_older">"Starší"</string>
+    <string msgid="8830378966553031281" name="message_view_parse_message_toast">"Otevírání zprávy..."</string>
+    <string msgid="6287415596441037095" name="message_view_show_details">"Zobrazit podrobnosti"</string>
+    <string msgid="8862797393776226777" name="message_view_show_invite_action">"Pozvánka"</string>
+    <string msgid="5134222901019191436" name="message_view_show_message_action">"Zpráva"</string>
+    <string msgid="5059936981743072545" name="message_view_show_pictures_action">"Zobrazit obrázky"</string>
+    <string msgid="2433097334272991035" name="message_view_status_attachment_not_saved">"Přílohu nelze uložit."</string>
+    <string msgid="8878790392556284868" name="message_view_status_attachment_saved">"Příloha uložena jako <ns1:g id="FILENAME">%s</ns1:g>."</string>
+    <string msgid="3731022187530000852" name="message_view_subject_label">"Předmět:"</string>
+    <string msgid="6485191743265527381" name="message_view_to_label">"Komu:"</string>
+    <string msgid="8704425397397918798" name="more_than_999">"999+"</string>
+    <string msgid="3059189775933985898" name="move_action">"Přesunout"</string>
+    <string msgid="2614318192482193898" name="move_to_folder_dialog_title">"Přesunout do"</string>
+    <string msgid="3931301986364184415" name="next_action">"Další"</string>
+    <string msgid="2606649762841566104" name="notification_multiple_new_messages_fmt">"Nové zprávy: <ns1:g id="ID_1">%1$d</ns1:g>"</string>
+    <string msgid="2078557719010667913" name="notification_to_account">"komu: <ns1:g id="RECEIVER_NAME">%1$s</ns1:g>"</string>
+    <string msgid="1639234651193843030" name="notify_activation_reminder">"Okamžité nahrávání zatím nebylo aktivováno"</string>
+    <string msgid="3999817913227671338" name="notify_paused">"Nahrávání pozastavena"</string>
+    <string msgid="8111194870485485674" name="notify_resolved">"Nahrávání dokončena"</string>
+    <string msgid="8593982942665493037" name="notify_uploads">"Okamžité nahrávání"</string>
+    <string msgid="2516349681897895312" name="ok">"OK"</string>
+    <string msgid="8365197396795675617" name="okay_action">"OK"</string>
+    <string msgid="7174669014074849304" name="password_expire_warning_content_title">"Heslo zámku obrazovky brzy vyprší"</string>
+    <string msgid="4595246020880351045" name="password_expire_warning_dialog_content_fmt">"Brzy bude třeba změnit kód PIN nebo heslo pro uzamčení obrazovky. Pokud tak neučiníte, budou data účtu <ns1:g id="ACCOUNT">%s</ns1:g> vymazána. Chcete nyní změnit kód PIN nebo heslo?"</string>
+    <string msgid="1687074175399798189" name="password_expire_warning_dialog_title">"Heslo zámku obrazovky brzy vyprší"</string>
+    <string msgid="2459977229180023773" name="password_expire_warning_ticker_fmt">"Účet <ns1:g id="ACCOUNT">%s</ns1:g> vyžaduje změnu kódu PIN nebo hesla pro uzamčení obrazovky."</string>
+    <string msgid="4349518706602252979" name="password_expired_content_title">"Platnost hesla pro uzamčení obrazovky vypršela"</string>
+    <string msgid="5982207349002500211" name="password_expired_dialog_content_fmt">"Ze zařízení jsou mazána data účtu <ns1:g id="ACCOUNT">%s</ns1:g>. Data můžete obnovit změnou kódu PIN nebo hesla pro uzamčení obrazovky."</string>
+    <string msgid="2186547998125938084" name="password_expired_dialog_title">"Platnost hesla zámku obrazovky vypršela"</string>
+    <string msgid="4230570412974108968" name="password_expired_ticker">"Platnost kódu PIN nebo hesla pro uzamčení obrazovky vypršela."</string>
+    <string msgid="3154677586511229063" name="pause_state_low_battery">"pozastaveno – slabá baterie"</string>
+    <string msgid="4837627990158796573" name="pause_state_manually_paused">"ručně pozastaveno"</string>
+    <string msgid="5014741655713255815" name="pause_state_need_charger">"pozastaveno – odloženo až do nabití"</string>
+    <string msgid="338696137467815955" name="pause_state_need_connectivity">"pozastaveno – čekání na připojení"</string>
+    <string msgid="3849758767808306320" name="pause_state_need_media">"pozastaveno – karta SD není dostupná"</string>
+    <string msgid="4026149712680343993" name="pause_state_need_photos_quota">"pozastaveno – překročili jste kvótu PWA"</string>
+    <string msgid="231858819136516913" name="pause_state_need_wifi">"pozastaveno – čekání na síť Wi-Fi"</string>
+    <string msgid="3734440128828177639" name="pause_state_retrying">"čekání na opakování"</string>
+    <string msgid="1811348200068311099" name="pause_state_roaming">"pozastaveno – roaming"</string>
+    <string msgid="711411177620353982" name="pause_state_running">"nahrávání"</string>
+    <string msgid="2221907862438022705" name="permission_access_provider_desc">"Povoluje této aplikaci přístup do databáze e-mailů, včetně přijatých a odeslaných zpráv, uživatelských jmen a hesel."</string>
+    <string msgid="378256653525377586" name="permission_access_provider_label">"Přístup k datům poskytovatele e-mailu"</string>
+    <string msgid="6592948507403743153" name="permission_read_attachment_desc">"Umožňuje této aplikaci číst přílohy e-mailů."</string>
+    <string msgid="9208086010625033590" name="permission_read_attachment_label">"Číst přílohy e-mailů"</string>
+    <string msgid="2261848079760937674" name="photos_upload_dimension_1600">"Doporučeno: 1600 pixelů (pro sdílení, tisk a spořiče obrazovky)"</string>
+    <string msgid="6807552546029109517" name="photos_upload_dimension_original">"Původní velikost (nejpomalejší nahrávání)"</string>
+    <string msgid="2052406684123992574" name="picasa_default_destination">"Album okamžitého nahrávání"</string>
+    <string msgid="6276294768978512737" name="picker_combined_view_fmt">"Kombinované zobrazení (<ns1:g id="COUNT">%s</ns1:g>)"</string>
+    <string msgid="2277030979530376085" name="picker_mailbox_name_all_inbox">"Doručená pošta (vše)"</string>
+    <string msgid="6392491216581687644" name="picker_mailbox_name_all_unread">"Doručená pošta (nepřečtené)"</string>
+    <string msgid="3365150001259912183" name="plus_cc_label">"+ Kopie/skrytá"</string>
+    <string msgid="7989353140376877792" name="position_of_count">"<ns1:g id="ID_1">%1$d</ns1:g> z <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="3001183168471659844" name="preference_category_title_about">"O aplikaci"</string>
+    <string msgid="330919434495694575" name="preference_category_title_general">"Obecné"</string>
+    <string msgid="8558221017057440259" name="preference_category_title_photos">"Fotografie"</string>
+    <string msgid="8962400910793075570" name="preference_category_title_videos">"Videa"</string>
+    <string msgid="4228623171763750182" name="preference_mobile_data_usage_for_all_media">"Fotografie a videa prostřednictvím mobilních sítí"</string>
+    <string msgid="8047534381344601018" name="preference_mobile_data_usage_for_photos_only">"Pomocí mobilních sítí nahrávat jen fotky"</string>
+    <string msgid="4887062654163669480" name="preference_mobile_data_usage_never">"Fotografie a videa jen prostřednictvím sítí Wi-Fi"</string>
+    <string msgid="1159923217131890712" name="preference_plus_category_advanced">"Pokročilé"</string>
+    <string msgid="2327042451671101467" name="preference_plus_delay_sync_until_charging">"Nahrávání dle baterie"</string>
+    <string msgid="8613924819421248445" name="preference_plus_delay_sync_until_charging_summary">"Fotografie a videa nahrávat jen při nabíjení"</string>
+    <string msgid="8946492352805623630" name="preference_plus_enable_cs">"Okamžité nahrávání"</string>
+    <string msgid="8412139973136041010" name="preference_plus_enable_cs_summary">"Automaticky nahrávat nové fotografie a videa do soukromého webového alba"</string>
+    <string msgid="5368391437581896915" name="preference_plus_mobile_data_connection">"Nahrávání pomocí mobilního datového připojení"</string>
+    <string msgid="2563137874388611459" name="preference_plus_sync_all">"Nahrát existující fotky"</string>
+    <string msgid="2789041515679642463" name="preference_plus_sync_all_description">"Nahrát všechny existující fotky a videa z telefonu"</string>
+    <string msgid="4216190537695947368" name="preference_plus_sync_all_prompt_no">"Ne"</string>
+    <string msgid="2215794846784161524" name="preference_plus_sync_all_prompt_text">"Nahrání zatím nenahraných fotek a videí z telefonu do soukromého alba na webu může chvíli trvat, ale proběhne na pozadí. Chcete pokračovat?"</string>
+    <string msgid="7677605572146032195" name="preference_plus_sync_all_prompt_title">"Nahrát existující fotky"</string>
+    <string msgid="4844977073896196919" name="preference_plus_sync_all_prompt_yes">"Ano"</string>
+    <string msgid="137428136220746649" name="preference_plus_sync_while_roaming">"Nahrávání při roamingu"</string>
+    <string msgid="358436280727344717" name="preference_plus_sync_while_roaming_summary">"Nahrávat fotky a videa při roamingu v datové síti"</string>
+    <string msgid="8505499389432915393" name="preference_plus_title">"Nastav. okamž. nahr."</string>
+    <string msgid="7925576302519589779" name="preference_plus_upload_status">"Stav nahrávání"</string>
+    <string msgid="8850267704647137239" name="preference_summary_header_format">"%1$s: %2$s"</string>
+    <string msgid="1829578224249216151" name="preference_summary_need_power">"Nahrávat pouze při nabíjení telefonu."</string>
+    <string msgid="4627730244549568487" name="preference_summary_need_wifi">"Nahrávat, jen když je k dispozici síť Wi-Fi."</string>
+    <string msgid="6092575579212954671" name="preference_summary_uploading_format">": %1$d z celkem %2$d"</string>
+    <string msgid="2413016492323452882" name="preference_summary_uploading_paused">"Pozastaveno. Nahrávání obnovíte dotykem."</string>
+    <string msgid="3266958005329832043" name="preference_summary_uploading_percent">"Nahrávání (%1$d%%)"</string>
+    <string msgid="1590760570503808392" name="preference_title_camera_sync_version">"Verze Okamžitého nahrávání"</string>
+    <string msgid="9165152026296632685" name="preference_title_need_power">"Napájení"</string>
+    <string msgid="2398468701949227352" name="preference_title_need_wifi">"Wi-Fi"</string>
+    <string msgid="4188909974244266321" name="preference_title_pause_all_uploads">"Pozastavit všechna nahrávání"</string>
+    <string msgid="2291608017215972660" name="preference_title_photo_size">"Velikost fotografie"</string>
+    <string msgid="1235191190019405102" name="preference_title_photos_account">"Účet"</string>
+    <string msgid="8026800699913042033" name="preference_title_photos_upload_connectivity">"Podmínky nahrávání"</string>
+    <string msgid="6675545508568161301" name="preference_title_videos_account">"Účet"</string>
+    <string msgid="2925385281151195648" name="preference_title_videos_account_summary">"Videa se nahrají pomocí účtu pro fotografie."</string>
+    <string msgid="4029897303763182477" name="preference_title_videos_upload_connectivity">"Podmínky nahrávání"</string>
+    <string msgid="2228943790654186152" name="preference_title_videos_upload_connectivity_summary">"Momentálně se používá nastavení připojení pro fotografie."</string>
+    <string msgid="5181616311579820981" name="previous_action">"Předchozí"</string>
+    <string msgid="2995297671709325333" name="provider_note_live">"Přístup POP, který umožňuje připojení pomocí tohoto programu, zahrnují pouze některé účty typu Plus. Pokud zadáváte správnou e-mailovou adresu a heslo, ale nemůžete se přihlásit, pravděpodobně nemáte placený účet Plus. K těmto e-mailovým účtům můžete přistupovat prostřednictvím webového prohlížeče."</string>
+    <string msgid="1630642061431427894" name="provider_note_t_online">"Před nastavením tohoto e-mailového účtu navštivte stránky T-Online a vytvořte heslo pro přístup k e-mailu prostřednictvím protokolu POP3."</string>
+    <string msgid="1693308598242828422" name="quick_responses_empty_view">"Žádné rychlé odpovědi"</string>
+    <string msgid="4701484794504781686" name="read_action">"Označit jako přečtené"</string>
+    <string msgid="5951383001436708175" name="refresh_action">"Aktualizovat"</string>
+    <string msgid="6689770999647007163" name="remove_star_action">"Odebrat hvězdičku"</string>
+    <string msgid="4262472229221507619" name="reply_action">"Odpovědět"</string>
+    <string msgid="6192179825726332152" name="reply_all_action">"Odpovědět všem"</string>
+    <string msgid="7777357288642785955" name="require_manual_sync_message">"Synchronizace na pozadí je v tomto účtu při roamingu zakázána."</string>
+    <string msgid="2242454935194420914" name="retry_in_1min">"1 minuta"</string>
+    <string msgid="5845688527405283031" name="retry_in_2min">"2 minuty"</string>
+    <string msgid="3153220715959570358" name="retry_in_5min">"5 minut"</string>
+    <string msgid="630347885498641534" name="retry_no_data">"Žádné datové připojení"</string>
+    <string msgid="1988862706623227093" name="save_action">"Uložit"</string>
+    <string msgid="6413714270991417223" name="save_draft_action">"Uložit koncept"</string>
+    <string msgid="6325101454876682308" name="search_action">"Hledat"</string>
+    <string msgid="2638602588841231811" name="search_header_text_fmt">"Výsledky"</string>
+    <string msgid="2200412192574686497" name="search_hint">"Hledat v e-mailu"</string>
+    <string msgid="7854987729678942790" name="search_mailbox_hint">"Vyhledávat ve složce <ns1:g id="ID_1">%1$s</ns1:g>"</string>
+    <string msgid="8494483410797387903" name="search_slow_warning_message">"Některým serverům může tento proces trvat dlouho."</string>
+    <string msgid="2826118321880530239" name="search_slow_warning_title">"Čekání na výsledky"</string>
+    <string msgid="3352841884304076235" name="security_notification_content_title">"Je třeba aktualizovat zabezp."</string>
+    <string msgid="1108023476125276507" name="security_notification_ticker_fmt">"Účet <ns1:g id="ACCOUNT">%s</ns1:g> požaduje aktualizaci nastavení zabezpečení."</string>
+    <string msgid="1729766205562446418" name="send_action">"Odeslat"</string>
+    <string msgid="4660317166196258160" name="set_star_action">"Přidat hvězdičku"</string>
+    <string msgid="6334807007967459412" name="settings_action">"Nastavení"</string>
+    <string msgid="5185915603716333904" name="settings_activity_title">"Nastavení"</string>
+    <string msgid="4136018559611145202" name="show_quick_text_list_dialog_action">"Vložit rychlou odpověď"</string>
+    <string msgid="6552307237621292344" name="status_loading_messages">"Načítání zpráv..."</string>
+    <string msgid="2611654064403817391" name="status_network_error">"Problém s připojením."</string>
+    <string msgid="7253964583324677128" name="subject_hint">"Předmět"</string>
+    <string msgid="8544099132633066086" name="summary_menu_show_finished">"Zobrazit dokončená nahrávání"</string>
+    <string msgid="658361192495996" name="summary_menu_show_pending">"Zobrazit čekající nahrávání"</string>
+    <string msgid="7867903205999702138" name="summary_subtitle_counts_format">"Fotografie:%1$d • Videa: %2$d"</string>
+    <string msgid="8964378166312900703" name="summary_subtitle_disabled">"Vypnuto"</string>
+    <string msgid="7030423720574078362" name="summary_subtitle_paused_low_battery">"slabá baterie"</string>
+    <string msgid="3256171133661659691" name="summary_subtitle_paused_need_charger">"odloženo až do nabití"</string>
+    <string msgid="8674787576306211689" name="summary_subtitle_paused_need_media">"Karta SD není dostupná"</string>
+    <string msgid="1922651711990030201" name="summary_subtitle_paused_need_network">"čeká se na připojení"</string>
+    <string msgid="2264018871872109546" name="summary_subtitle_paused_need_wifi">"čekání na síť Wi-Fi"</string>
+    <string msgid="3057279018089658614" name="summary_subtitle_paused_photos_quota">"byla překročena kvóta pro počet fotografií"</string>
+    <string msgid="3851931944505090119" name="summary_subtitle_paused_retry_format">"další pokus za %s"</string>
+    <string msgid="974863046888934062" name="summary_subtitle_paused_roaming">"roaming"</string>
+    <string msgid="8787409179557302869" name="summary_subtitle_uploading_format">"%1$d%% • Fotografie: %2$d • Videa: %3$d"</string>
+    <string msgid="7775292294989807025" name="summary_title_finished">"Dokončeno"</string>
+    <string msgid="8936561302881926595" name="summary_title_paused">"Pozastaveno"</string>
+    <string msgid="3357617474017589370" name="summary_title_uploading">"Nahrávání"</string>
+    <string msgid="3673792980526246177" name="system_account_create_failed">"Účet se nepodařilo vytvořit. Zkuste to znovu."</string>
+    <string msgid="4392614766835725698" name="to">"Komu"</string>
+    <string msgid="8144242451730692816" name="toast_account_not_found">"Účet nenalezen. Je možné, že byl odstraněn."</string>
+    <string msgid="2196450105656960566" name="toast_failed_auth">"Při přihlašování do účtu došlo k chybě."</string>
+    <string msgid="1315722681020841350" name="toast_file_error">"Soubor není dostupný."</string>
+    <string msgid="6164928822619692280" name="toast_intent_error">"Inicializace nahrávání se nezdařila."</string>
+    <string msgid="4960014581292378895" name="toast_mailbox_not_found">"Složka nenalezena. Je možné, že byla odstraněna."</string>
+    <string msgid="4762002183756251723" name="trusted_senders_cleared">"Nastavení Zobrazit obrázky bylo smazáno."</string>
+    <string msgid="6280399049357552826" name="unread_action">"Označit jako nepřečtené"</string>
+    <string msgid="2615541458361216022" name="upload">"Nahrát"</string>
+    <string msgid="5638163990418071018" name="upload_state_completed">"Dokončeno"</string>
+    <string msgid="3799932718800848294" name="upload_state_failed">"Nezdařilo se"</string>
+    <string msgid="3990598443227105526" name="upload_state_queued"/>
+    <string msgid="82854465974176047" name="upload_state_uploading">"Nahrávání"</string>
+    <string msgid="471790705731784779" name="upload_state_waiting_retry">"Čekání na opakování"</string>
+    <string msgid="234662717256366625" name="upload_state_waiting_wifi">"Čekání na připojení k síti Wi-Fi"</string>
+    <string msgid="1735961974624867111" name="uploading_for">" pro uživatele "<b>"%s"</b></string>
+    <string msgid="3986362895940069510" name="uploading_to">"Nahrávání: "<b>"%s"</b></string>
+    <string msgid="1393719303955128036" name="waitinf_for_sync_message_1">"Čekání na synchronizaci"</string>
+    <string msgid="5656175205790694016" name="waitinf_for_sync_message_2">"Vaše e-maily se brzy zobrazí."</string>
+    <string msgid="4352573990283094963" name="widget_all_mail">"Všechny Doručené p."</string>
+    <string msgid="2340962056927255554" name="widget_loading">"Načítání..."</string>
+    <string msgid="2412482205591224408" name="widget_no_accounts">"Zatím jste nenastavili e-mailový účet."</string>
+    <string msgid="5222354534538852579" name="widget_no_mailboxes">"Tento účet není synchronizován. Zkuste to později."</string>
+    <string msgid="4988574907386539499" name="widget_other_views">"Změníte klepnutím na ikonu."</string>
+    <string msgid="8290352707134011791" name="widget_starred">"S hvězdičkou"</string>
+    <string msgid="7062039013915225323" name="widget_touch_to_configure">"Dotykem nastavíte."</string>
+    <string msgid="4404711399009077833" name="widget_unread">"Nepřečtené"</string>
+</resources>

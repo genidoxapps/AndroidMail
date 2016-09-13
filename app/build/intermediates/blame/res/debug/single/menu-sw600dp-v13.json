@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/menu-sw600dp-v13/account_settings_add_account_option.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/menu-sw600dp/account_settings_add_account_option.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/menu-sw600dp-v13/message_search_list_fragment_option.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/menu-sw600dp/message_search_list_fragment_option.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/menu-sw600dp-v13/message_compose_option.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/menu-sw600dp/message_compose_option.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/menu-sw600dp-v13/message_list_fragment_cab_options.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/menu-sw600dp/message_list_fragment_cab_options.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/menu-sw600dp-v13/message_list_fragment_option.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/menu-sw600dp/message_list_fragment_option.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/menu-sw600dp-v13/message_view_fragment_option.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/menu-sw600dp/message_view_fragment_option.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/menu-sw600dp-v13/email_activity_options.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/menu-sw600dp/email_activity_options.xml"
+    }
+]

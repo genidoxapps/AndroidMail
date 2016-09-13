@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/list_conversation_wide_unread_normal_holo.9.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/list_conversation_wide_unread_normal_holo.9.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/list_conversation_wide_unread_focused_holo.9.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/list_conversation_wide_unread_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/list_conversation_wide_read_selected_holo.9.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/list_conversation_wide_read_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/btn_star_on_normal_email_holo_light.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/btn_star_on_normal_email_holo_light.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/btn_star_off_normal_email_holo_light.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/btn_star_off_normal_email_holo_light.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/list_conversation_wide_read_pressed_holo.9.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/list_conversation_wide_read_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/list_conversation_wide_read_focused_holo.9.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/list_conversation_wide_read_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/btn_check_on_normal_holo_light.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/btn_check_on_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/list_conversation_wide_read_normal_holo.9.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/list_conversation_wide_read_normal_holo.9.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/btn_check_off_normal_holo_light.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/btn_check_off_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/list_conversation_wide_unread_pressed_holo.9.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/list_conversation_wide_unread_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/list_conversation_wide_unread_selected_holo.9.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-sw600dp-hdpi/list_conversation_wide_unread_selected_holo.9.png"
+    }
+]

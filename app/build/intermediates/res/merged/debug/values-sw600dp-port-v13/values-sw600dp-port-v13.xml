@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="expand_middle_view">false</bool>
+    <bool name="show_two_pane_search_result">false</bool>
+    <dimen name="action_bar_account_name_max_width">128dip</dimen>
+    <dimen name="action_bar_mailbox_name_left_margin">16dip</dimen>
+    <dimen name="action_bar_mailbox_name_max_width">128dip</dimen>
+    <dimen name="compose_area_left_padding">76dip</dimen>
+    <dimen name="compose_area_right_padding">78dip</dimen>
+    <dimen name="mailbox_list_width">200dip</dimen>
+    <dimen name="message_compose_field_label_width">120dip</dimen>
+    <dimen name="message_list_width">0dip</dimen>
+    <dimen name="setup_padding_left">32dip</dimen>
+    <dimen name="setup_padding_right">32dip</dimen>
+    <dimen name="setup_padding_top">32dip</dimen>
+    <dimen name="widget_date_font_size">14sp</dimen>
+    <dimen name="widget_senders_font_size">14sp</dimen>
+    <dimen name="widget_subject_font_size">14sp</dimen>
+    <integer name="message_search_list_header_mode">1</integer>
+    <style name="accountSettingsButton">
+        <item name="android:layout_width">125sp</item>
+        <item name="android:layout_height">48sp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="accountSetupTypePrevious" parent="@style/accountSetupButton">
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_marginBottom">48dip</item>
+        <item name="android:layout_marginLeft">48dip</item>
+    </style>
+    <style name="message_compose_scroll">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginLeft">16dip</item>
+        <item name="android:layout_marginRight">16dip</item>
+    </style>
+</resources>

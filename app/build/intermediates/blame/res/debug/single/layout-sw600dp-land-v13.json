@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/account_setup_basics.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout-sw600dp-land/account_setup_basics.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/account_setup_exchange.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout-sw600dp-land/account_setup_exchange.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/account_setup_incoming.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout-sw600dp-land/account_setup_incoming.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/account_setup_outgoing.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout-sw600dp-land/account_setup_outgoing.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/account_setup_names.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout-sw600dp-land/account_setup_names.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/account_setup_options.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout-sw600dp-land/account_setup_options.xml"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/message_view_invitation.xml",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/layout-sw600dp-land/message_view_invitation.xml"
+    }
+]
