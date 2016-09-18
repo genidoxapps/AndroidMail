@@ -20,12 +20,12 @@
         "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-xhdpi/ic_badge_invite_holo_light.png"
     },
     {
-        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_folder_sent_holo_light.png",
-        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-xhdpi/ic_folder_sent_holo_light.png"
-    },
-    {
         "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_folder_sent_holo_light.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-xhdpi/ic_folder_sent_holo_light.png"
     },
     {
         "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_badge_forward_holo_light.png",
@@ -240,12 +240,12 @@
         "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/src/main/res/drawable-xhdpi/btn_star_off_convo_holo_light.png"
     },
     {
-        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
         "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
