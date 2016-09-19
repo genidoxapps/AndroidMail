@@ -60,10 +60,8 @@ public class FolderProperties {
         }
         mSpecialMailboxDrawable =
             context.getResources().obtainTypedArray(R.array.mailbox_display_icons);
-//        mSummaryStarredMailboxDrawable =
-//            context.getResources().getDrawable(R.drawable.ic_menu_star_holo_light);
         mSummaryStarredMailboxDrawable =
-                context.getResources().getDrawable(R.drawable.btn_no_off);
+            context.getResources().getDrawable(R.drawable.ic_menu_star_holo_light);
         mSummaryCombinedInboxDrawable =
             context.getResources().getDrawable(R.drawable.ic_list_combined_inbox);
     }

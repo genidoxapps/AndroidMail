@@ -1,2 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_335d59391633f46ccc4f7903220ac79a09c67b33.jar" />
+    </item>
+    <item
+        jar="/Users/fancysherry/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_84186877af08936c5107e8d9fa92276086425373.jar" />
+    </item>
+    <item
+        jar="/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.0.0_97e866bc4d9ef135045a75d0ce8bd1fa325ea218.jar" />
+    </item>
+    <item
+        jar="/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.0.0_830bd1f8e8d87a8bc50c2179d47ae304b0b4fff1.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/fancysherry/code/android/CompilingAndroidMail-master/app/build/intermediates/pre-dexed/debug/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c.jar" />
+    </item>
+
+</items>
